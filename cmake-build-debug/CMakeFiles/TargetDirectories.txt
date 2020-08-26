@@ -1,0 +1,12 @@
+F:/c_test_pro/cmake-build-debug/CMakeFiles/c_test_pro.dir
+F:/c_test_pro/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/c_test_pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/c_test_pro/cmake-build-debug/day01/CMakeFiles/edit_cache.dir
+F:/c_test_pro/cmake-build-debug/day01/CMakeFiles/main.dir
+F:/c_test_pro/cmake-build-debug/day01/CMakeFiles/binary.dir
+F:/c_test_pro/cmake-build-debug/day01/CMakeFiles/stack.dir
+F:/c_test_pro/cmake-build-debug/day01/CMakeFiles/rebuild_cache.dir
+F:/c_test_pro/cmake-build-debug/day02/CMakeFiles/edit_cache.dir
+F:/c_test_pro/cmake-build-debug/day02/CMakeFiles/rebuild_cache.dir
+F:/c_test_pro/cmake-build-debug/day03/CMakeFiles/edit_cache.dir
+F:/c_test_pro/cmake-build-debug/day03/CMakeFiles/rebuild_cache.dir

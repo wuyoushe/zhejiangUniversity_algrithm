@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/c_test_pro/day01/BinaryTree.c
+stdio.h
+-
+stdlib.h
+-
+
+F:/c_test_pro/day01/main.c
+stdio.h
+-
+BinaryTree.c
+F:/c_test_pro/day01/BinaryTree.c
+
